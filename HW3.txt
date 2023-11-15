@@ -1,0 +1,106 @@
+Error parsing book: Number of pages cannot be less than1
+Error parsing book: Incorrect number of fields in line.
+Error parsing book: Incorrect number of fields in line.
+Error parsing book: Price cannot be negative
+Error parsing book: Incorrect number of fields in line.
+Error parsing book: For input string: ""
+Error parsing book: Title cannot be null or have zero length
+Error parsing book: For input string: "7o"
+
+String ArrayList is empty: false
+String ArrayList size after removal: 6
+String ArrayList: West Long Branch
+String ArrayList: February
+String ArrayList: Cloud Computing
+String ArrayList: Data Structures
+String ArrayList: MacBook
+String ArrayList: Spacex
+String ArrayList: iPhone
+String ArrayList in reverse: iPhone
+String ArrayList in reverse: Spacex
+String ArrayList in reverse: MacBook
+String ArrayList in reverse: Data Structures
+String ArrayList in reverse: Cloud Computing
+String ArrayList in reverse: February
+String ArrayList in reverse: West Long Branch
+
+Book ArrayList is empty: false
+Book ArrayList size after removal: 11
+Book ArrayList:
+Title: Data Structures and Algorithms, Type: SOFTBACK, Pages: 426, Price: 79.99
+Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Title: Opus 200, Type: HARDBACK, Pages: 320, Price: 40.99
+Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: Citizen Soldier, Type: HARDBACK, Pages: 231, Price: 54.99
+Title: 12 Angry Men, Type: SOFTBACK, Pages: 300, Price: 15.99
+Book ArrayList in reverse:
+Title: 12 Angry Men, Type: SOFTBACK, Pages: 300, Price: 15.99
+Title: Citizen Soldier, Type: HARDBACK, Pages: 231, Price: 54.99
+Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Title: Opus 200, Type: HARDBACK, Pages: 320, Price: 40.99
+Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Title: Data Structures and Algorithms, Type: SOFTBACK, Pages: 426, Price: 79.99
+
+
+String LinkedList in reverse: iPhone
+String LinkedList in reverse: Spacex
+String LinkedList in reverse: MacBook
+String LinkedList in reverse: Data Structures
+String LinkedList in reverse: Cloud Computing
+String LinkedList in reverse: February
+String LinkedList in reverse: West Long Branch
+String LinkedList in reverse: Monmouth University
+String LinkedList: Monmouth University
+String LinkedList: West Long Branch
+String LinkedList: February
+String LinkedList: Cloud Computing
+String LinkedList: Data Structures
+String LinkedList: MacBook
+String LinkedList: Spacex
+String LinkedList: iPhone
+
+
+Book LinkedList in reverse: 
+Title: 12 Angry Men, Type: SOFTBACK, Pages: 300, Price: 15.99
+Title: Citizen Soldier, Type: HARDBACK, Pages: 231, Price: 54.99
+Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Title: Opus 200, Type: HARDBACK, Pages: 320, Price: 40.99
+Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Title: Data Structures and Algorithms, Type: SOFTBACK, Pages: 426, Price: 79.99
+Title: The Lord of the Rings, Type: HARDBACK, Pages: 120, Price: 29.99
+Book LinkedList: 
+Title: The Lord of the Rings, Type: HARDBACK, Pages: 120, Price: 29.99
+Title: Data Structures and Algorithms, Type: SOFTBACK, Pages: 426, Price: 79.99
+Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Title: Opus 200, Type: HARDBACK, Pages: 320, Price: 40.99
+Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: Citizen Soldier, Type: HARDBACK, Pages: 231, Price: 54.99
+Title: 12 Angry Men, Type: SOFTBACK, Pages: 300, Price: 15.99
+
+
+LinkedList contains 'The Lord of the Rings': true
+LinkedList contains 'Green Eggs and Ham': false
